@@ -1,1 +1,1 @@
-Gestor de tareas
+Esto es una descripcion del readme
